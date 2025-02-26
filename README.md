@@ -84,23 +84,23 @@ This is a Telegram bot that provides various AI-powered tools, including:
 
 ## Project Structure
 
-# ai_robot/ main.py
+- ai_robot/ main.py
 
-# Main entry point config.py
+- Main entry point config.py
 
-# Configuration loading utils.py
+- Configuration loading utils.py
 
-# Utility functions handlers/
+- Utility functions handlers/
 
-# Telegram bot handlers init.py start.py ai_writer.py ai_listener.py ai_capture.py mail.py shortener.py encrypt_decrypt.py keyboards/
+- Telegram bot handlers init.py start.py ai_writer.py ai_listener.py ai_capture.py mail.py shortener.py encrypt_decrypt.py keyboards/
 
-# Inline keyboard definitions init.py main_menu.py ai_writer.py ai_listener.py ai_capture.py ai_mail.py shortener.py encrypt_decrypt.py requirements.txt
+- Inline keyboard definitions init.py main_menu.py ai_writer.py ai_listener.py ai_capture.py ai_mail.py shortener.py encrypt_decrypt.py requirements.txt
 
-# Python dependencies keys.json
+- Python dependencies keys.json
 
-# API keys and bot token chat.json
+- API keys and bot token chat.json
 
-# Chat ID configuration README.md # This file
+- Chat ID configuration README.md # This file
 
 ## API Keys and Credentials
 
