@@ -1,0 +1,8 @@
+{
+  "hash_key": "default_hash_key",
+  "openai_key": "default_openai_key",
+  "bot_token": "default_bot_token",
+  "donate": "default_donate_link",
+  "contact": "default_contact_link",
+  "bot_link": "default_bot_link"
+}
