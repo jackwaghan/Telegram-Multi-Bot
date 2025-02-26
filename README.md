@@ -24,14 +24,14 @@ This is a Telegram bot that provides various AI-powered tools, including:
 
     ```bash
     git clone <repository_url>
-    cd AI-Robot
+    cd Telegram-Multi-Bot
     ```
 
 2.  **Create a virtual environment (recommended):**
 
     ```bash
     python -m venv myenv
-    source myenv/bin/activate  # On Linux/macOS
+    source myenv/scripts/activate  # On Linux/macOS
     myenv\Scripts\activate  # On Windows
     ```
 
@@ -84,7 +84,7 @@ This is a Telegram bot that provides various AI-powered tools, including:
 
 ## Project Structure
 
-- ai_robot/ main.py
+- main.py
 
 - Main entry point config.py
 
@@ -105,8 +105,11 @@ This is a Telegram bot that provides various AI-powered tools, including:
 ## API Keys and Credentials
 
 - **Telegram Bot Token:** Obtain a bot token from BotFather on Telegram.
+
 - **OpenAI API Key:** Get an API key from the OpenAI website.
+
 - **Google Cloud Speech-to-Text API Credentials:** Create a service account and download the credentials file from the Google Cloud Console.
+
 - **Mailgun API Credentials:** If using the mail functionality, you'll need to configure Mailgun and use your API key and domain.
 
 **Important:** Store your API keys and credentials securely and do not commit them to your repository. Use environment variables or a secure configuration file.
