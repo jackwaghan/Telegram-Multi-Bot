@@ -1,6 +1,6 @@
 # Multi Bot ( AI )
 
-This is a Telegram bot that provides various AI-powered tools, including:
+This is a Telegram bot that provides various tools, including:
 
 - AI Writer
 - AI Listener (Text to Speech)
@@ -31,7 +31,7 @@ This is a Telegram bot that provides various AI-powered tools, including:
 
     ```bash
     python -m venv myenv
-    source myenv/scripts/activate  # On Linux/macOS
+    source myenv/bin/activate  # On Linux/macOS
     myenv\Scripts\activate  # On Windows
     ```
 
