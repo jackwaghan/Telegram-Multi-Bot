@@ -1,4 +1,4 @@
-# Multi Bot ( AI )
+# Telegram Multi Tools ( AI )
 
 This is a Telegram bot that provides various tools, including:
 
@@ -23,7 +23,7 @@ This is a Telegram bot that provides various tools, including:
 1.  **Clone the repository:**
 
     ```bash
-    git clone <repository_url>
+    git clone https://github.com/jackwaghan/Telegram-Multi-Bot.git
     cd Telegram-Multi-Bot
     ```
 
